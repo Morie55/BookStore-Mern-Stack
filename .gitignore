@@ -1,2 +1,6 @@
 # Environment Variables
 backend/config.js
+
+# Node Modules
+frontend/node_modules/
+backend/node_modules/
