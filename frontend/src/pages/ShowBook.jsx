@@ -43,7 +43,7 @@ const ShowBook = () => {
             <span className="text-xl mr-4 text-gray-500 font-bold">
               Author:
             </span>
-            <span>{book.Author}</span>
+            <span>{book.author}</span>
           </div>
           <div className="my-4">
             <span className="text-xl mr-4 text-gray-500 font-bold">
