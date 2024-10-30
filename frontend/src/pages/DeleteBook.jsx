@@ -34,7 +34,7 @@ const DeleteBook = () => {
       <h1 className="text-3xl my-4">Delete Book</h1>
       {loading ? <Spinner /> : ""}
 
-      <div className="flex flex-col items-center border-2 border-sky-400 rounded-xl w-full max-w-[600px] p-6 mx-4 sm:mx-auto">
+      <div className="flex flex-col items-center border-2 border-sky-400 rounded-xl w-full max-w-[600px] p-6 mx-4 sm:mx-auto sm:p-8">
         <h3 className="text-xl sm:text-2xl text-center">
           Are you sure you want to delete this book?
         </h3>
